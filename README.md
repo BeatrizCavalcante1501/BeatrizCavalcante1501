@@ -15,7 +15,7 @@
   <img align="center" alt="bia-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/63023926/138541041-624f9991-6e00-4787-a4d7-65d0196d393b.png)">
+  <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/739336791357915229/901318824152924160/Que_o_seu_dia_seja_Doce_Post_para_redes_sociais_Tamanho_original_1.png">
 </div>
   
   ##
